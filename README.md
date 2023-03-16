@@ -1,5 +1,5 @@
 # CrowdfundingETL
-* The goal of project 2 was aimed tohelp us apply what we hae learned how to perform extract data, transform, and load into a single warehose. ETL will help to gather data from diffrent sources, clean, transform, and load (store) in a single source (database) for easy access and analize the data. The task divided into foour main categories:creating Category and Subcategory DataFrames, Campaign DataFrame, Contacts DataFrame,Crowdfunding Database. We, the two team members divided the task eqully and performed the tasks and screenshots of examples of our work is hsown below:
+* The goal of project 2 was aimed tohelp us apply what we hae learned how to perform extract data, transform, and load into a single warehose. ETL will help to gather data from diffrent sources, clean, transform, and load (store) in a single source (database) for easy access and analize the data. The task divided into foour main categories:creating Category and Subcategory DataFrames, Campaign DataFrame, Contacts DataFrame,Crowdfunding Database. We, the two team members divided the task eqully and performed the tasks and screenshots of examples of our work is hsown below. We cearted a GitHub respository and shared it to work independetly or as a group.
 * 
 1. creating Category and Subcategory DataFrames:
 
@@ -15,7 +15,6 @@ Then we checked a breif summary of the information  what is in the DataFrame
 
 Finally wie exported Category and Subcategory data into CSV files
 ![image](https://user-images.githubusercontent.com/117956888/225743781-cc9cd661-4fa7-4012-b1d7-e3e0b9a89bf3.png)
-
 
 2. Creating Campaign DataFrame:
 
