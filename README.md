@@ -45,8 +45,10 @@ Finally we check the data types and exported the data into CSV file.
 ![image](https://user-images.githubusercontent.com/117956888/225747292-3853aad0-56f9-440d-ae2f-c9956d417d32.png)
 
 4. Creating Crowdfunding Database:
-For this  we did inspect the four CSV files, and then sketched an ERD of the tables by using QuickDBDLinks to an external site. We useed the information from the ERD to create a table schema for each CSV file.
+For this  we did inspect the four CSV files, and then sketched an ERD of the tables by using QuickDBDLinks to an external site. We useed the information from the ERD to create a table schema for each CSV file. We saved the database schema as a Postgres file into our GitHub repository. After this we created Create a new Postgres database and imported the CSV files using the database schema nto its corresponding SQL table.
+Finally we Verified that each table has the correct data by running a SELECT statement for eacc table.
 
+![image](https://user-images.githubusercontent.com/117956888/225748817-5fcd0f94-d9cb-4e26-99e7-fc4cd3bf99f9.png)
 
 
 
