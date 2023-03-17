@@ -32,11 +32,11 @@ Then we cleaned the data and exported to CSV.
 3. Creating Contacts DataFrame: for this  1st we read the contacts  excel file that  was in the resources folder.
 ![image](https://user-images.githubusercontent.com/117956888/225745818-cc9fa9dc-736a-4a9a-b9dc-34d5e0793679.png)
 
-Then we did data extraction and creating dictionaries
+Then we did data extraction and created dictionaries
 
 ![image](https://user-images.githubusercontent.com/117956888/225746119-2d236cc9-e11a-456b-b16e-706800cc54bc.png)
 
-we continuued data transformation to get the need columns with contact_id,	email,	first_name, and	last_name. then we reordered the columns to put the emial address at the last column.
+we continued data transformation to get the need columns with contact_id,	email,	first_name, and	last_name. then we reordered the columns to put the emial address at the last column.
 ![image](https://user-images.githubusercontent.com/117956888/225747129-f047f1dc-c096-485d-ab9c-e55fa72dc87d.png)
 
 Finally we check the data types and exported the data into CSV file.
@@ -45,7 +45,7 @@ Finally we check the data types and exported the data into CSV file.
 
 4. Creating Crowdfunding Database:
 For this  we did inspect the four CSV files, and then sketched an ERD of the tables by using QuickDBDLinks to an external site. We useed the information from the ERD to create a table schema for each CSV file. We saved the database schema as a Postgres file into our GitHub repository. After this we created Create a new Postgres database and imported the CSV files using the database schema nto its corresponding SQL table.
-Finally we Verified that each table has the correct data by running a SELECT statement for eacc table.
+Finally we Verified that each table has the correct data by running a SELECT statement for each table.
 
 ![image](https://user-images.githubusercontent.com/117956888/225748817-5fcd0f94-d9cb-4e26-99e7-fc4cd3bf99f9.png)
 
