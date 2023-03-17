@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 subcategory_id,subcategory
 scat01,food trucks
 scat02,rock
@@ -24,30 +23,3 @@ scat021,mobile games
 scat022,world music
 scat023,science fiction
 scat024,audio
-=======
-subcategory_ids,subcategory
-scat1,food trucks
-scat2,rock
-scat3,web
-scat4,plays
-scat5,documentary
-scat6,electric music
-scat7,drama
-scat8,indie rock
-scat9,wearables
-scat10,nonfiction
-scat11,animation
-scat12,video games
-scat13,shorts
-scat14,fiction
-scat15,photography books
-scat16,radio & podcasts
-scat17,metal
-scat18,jazz
-scat19,translations
-scat20,television
-scat21,mobile games
-scat22,world music
-scat23,science fiction
-scat24,audio
->>>>>>> 7527304629cc31789ba72330d4d692fbd630d32e
