@@ -50,6 +50,7 @@ Finally we Verified that each table has the correct data by running a SELECT sta
 ![image](https://user-images.githubusercontent.com/117956888/225748817-5fcd0f94-d9cb-4e26-99e7-fc4cd3bf99f9.png)
 
 
+<img width="600" alt="Screenshot 2023-03-16 at 5 50 51 PM" src="https://user-images.githubusercontent.com/112666732/225783815-3fc07fb4-ad7b-4cf5-8020-3e55d34c2465.png">
 
 
 
